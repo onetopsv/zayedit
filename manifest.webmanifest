@@ -1,0 +1,9 @@
+{
+  "name": "ZayEdit Studio",
+  "short_name": "ZayEdit",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "description": "Trình chỉnh sửa video miễn phí chạy trên trình duyệt"
+}
